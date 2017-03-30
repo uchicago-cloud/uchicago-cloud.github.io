@@ -15,3 +15,5 @@ Assignment 1 is due Wednesday, April 5th, 2017 at 5:29pm.
 * Complete the following tutorials (in this order):
   - [Hello World tutorial](https://cloud.google.com/appengine/docs/standard/python/tutorials)
   - [Guestbook tutorial](https://cloud.google.com/appengine/docs/standard/python/tutorials)
+
+* Don't forget about the WWDC Scholarship...
