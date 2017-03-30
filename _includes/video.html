@@ -1,0 +1,19 @@
+{% comment %}
+<table class="video" style="padding:0px;margin:0px;">
+
+    <caption>
+        {{ include.description }}
+    </caption>
+
+    <tr>
+        <td><a href="http://www.youtube.com/watch?v={{ include.url }}"><img src="http://img.youtube.com/vi/{{ include.url }}/1.jpg" alt="{{ include.description }}"></a></td>
+        <td>{{ include.description }}</td>
+    </tr>
+</table>
+{% endcomment %}
+<span>
+    {{ include.description }}
+    <a href="http://www.youtube.com/watch?v={{ include.url }}">
+    <img style="width:50%;" src="http://img.youtube.com/vi/{{ include.url }}/0.jpg" alt="{{ include.description }}"></a>
+</span>
+

@@ -1,0 +1,73 @@
+* {
+    font-family: "Raleway", Helvetica, Arial, sans-serif;
+}
+body {font-size: 16px;}
+
+footer {
+    text-align:center;
+    margin: 50px 0px 50px 0px;
+    width:100%;
+    height:20px;   /* Height of the footer */
+    color:gray;
+    font-size: 1.25rem;
+}
+
+body {
+    min-height: 2000px;
+    padding-top: 70px;
+}
+
+/* set the background-color to red */
+.navbar-inverse
+{
+    background-color: #333;
+    /* remove the gradient */
+    background-image: none;
+    /* set font color to white */
+    color: white;
+    border-color:white;
+font-size: 14px;
+}
+.navbar-inverse .navbar-brand
+{
+    color: white;
+        text-shadow:none;
+}
+/* menu items */
+
+/* set the background of the menu items to pink and default color to white */
+
+.navbar .nav > li > a {
+    /*background-color: pink;*/
+    color: white;
+text-shadow:none;
+}
+
+
+/* set hover and focus to lightblue */
+.navbar .nav > li > a:focus,
+.navbar .nav > li > a:hover {
+    background-color: #333;
+    color: #ff4f27;
+}
+/* set active item to darkgreen
+.navbar .nav > .active > a,
+.navbar .nav > .active > a:hover,
+.navbar .nav > .active > a:focus {
+    
+    background-color: darkgreen;
+    color: white;
+}
+*/
+
+/* Global link colors */
+a {
+    color: #ff4f27;/*#268bd2;*/
+    text-decoration: none;
+}
+
+a:hover,
+a:focus {
+    text-decoration: underline;
+    color: #ff4f27;/*#268bd2;*/
+}

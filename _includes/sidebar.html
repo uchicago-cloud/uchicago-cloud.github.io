@@ -1,0 +1,47 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+
+
+    <!-- Smartphone Tablet icon by Icons8 -->
+    <br></br>
+    <div class="sidebar-about">
+      <div width="100%">
+        <!-- Cloud Storage Filled icon by Icons8 -->
+        <img class="icon icons8-Cloud-Storage-Filled" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAA4NJREFUaAXtmTtoFEEYx708NER8JxqVgJpYRFBQiYjEB0gaBbGwEFSsLKJiZeGj0BRWImmUIIpaSLS0EETtJAZErUSI4iEatBBiQnx7mPP3v8zK3N2uub3by+6GfPC7mZ355nvs7Mw+LjEtJEmn05W4XgvbDG2Uc+Az9MFj6EkkEu8poykkUQf3wZZRDoZApSM/qJyE6shlQlArIQmST3AT9kGdgqVcALuhB/6A5AHURCYZglkI70DSC7qUPIX+dlCykiueiuXqwGkNKIgL8AxuwSG4A5I+qC3EP3pr4CtIdhYyJhAdnNWCgveSETqW+nGG/jFj7CVlhZ+xRevi6LJxOkx5CdrgOPSDpMuvccZUwYAGI5v9jvetj5PloF3nJ6y2DXBcCVrY6+z2QuuM6wLJGbcxVW6NxbThIMG4A6DyHvv/C9sOx9qBDqq0233U+41uo9uYQK43AlyE8bvQaZwMuDkrIQmZGzU2t+qEwGw3H1ltKFXAfngLhYhzExtEuROWZRkM4ACbJ3IC0c3zMHhPBp2tOYMKOXyCkmamLILtRtgCp+ARpEBy1tMhnUcyKoX/6OzUexosQwf+doDW3W9Y5eqCjtvgR867GipzIwF2myCvu7qi84OfLNDd5WqozI34bTFxfsxbKHQ04X+Jzxh++dQPSv2VMdSQlwgdxdw59V4Rhiw2TkeCSkTb4MwQMtENWNI7Vli/BPTaXHd+C70/BPakYIXkWsVXM3wxQW7PUqKxwXQUWzxn4F5YAXpUCVSwOR207V4D3XwlV/Oc0Lgn0xWfn4uEOkOJ5F4KxSz0vBMyQQ03eHY76vjKXexxSqTFSULlv+uYKdL78yDoM00cJEWQ85iVbwrWnpFNHMclCcWuT0QbVZHYicTpshqL3rp5T5pEMmuE9aGPX8OQ2cqcdGNQfifGuayTlDMjG2KYhM6zvo2tV8VJJI7rQ/FLMrFPmkQSrA9tuUMwS+nFUPQ3RL2+flfDhL5vB3myiH2+mYwgzYZnS5dWO+7PQWt4YZTk+SmjTyuRN1SaSjIV/uCkEkmHH0fpETjbb+mWQrYwlUjIE5DnPsoz8pBo9QwoVP+vRHmxN/NUm1T07EfaVbW7ekqUZ8QzaLeOKCeiL+36n0Y36m634O22KF9adpzj1qM8I+MGbytMJWKfjSjUNSOZLS4KwZQQQ1KJdIAeheMqir3jLyGZgzB4XO+dAAAAAElFTkSuQmCC" width="50" height="50">
+
+      </div>
+        <h1>
+          <a href="{{ site.baseurl }}">
+            {{ site.title }}
+          </a>
+        </h1>
+        <p class="lead">{{ site.description }}</p>
+        </div>
+
+    <nav class="sidebar-nav">
+
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+
+      {% comment %}
+      The code below dynamically generates a sidebar nav of pages with
+      `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
+
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+      {% if node.title != null %}
+      {% if node.layout == "page" %}
+      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+      {% endif %}
+      {% endif %}
+      {% endfor %}
+
+      <a class="sidebar-nav-item" href="https://github.com/uchicago-cloud/MPCS51033-2017-Spring-Forum/issues">Forum</a>
+
+      <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
+
+    </nav>
+
+    <!--    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p> -->
+  </div>
+</div>

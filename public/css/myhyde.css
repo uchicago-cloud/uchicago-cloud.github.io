@@ -1,0 +1,163 @@
+* {
+    font-family: "Raleway", Helvetica, Arial, sans-serif;
+}
+
+/* No `:visited` state is required by default (browsers will use `a`) */
+a {
+    color: #703D6F;/*#2C93D1;#F78181; */
+}
+
+.lead { color: #E6EBA9; /*#2C93D1; #268bd2;*/
+        text-transform: lowercase;
+    }
+
+/*
+ Color block for message, alert
+ */
+.message {
+    background-color: #F78181;
+    opacity: 0.5;
+    color: black;
+}
+
+
+/*
+*/
+footer {
+    color:gray;
+    margin-top:20rem;
+    font-size: 0.5rem;
+}
+
+/*
+ original orange color #ff4f27
+ */
+
+/*
+ Fancy line under the sections
+*/
+h2 {
+    margin-top: 60px;
+}
+
+h2:after {
+    display: block;
+    width: 95%;
+    height: 4px;
+    margin: 20px 0 26px;
+    background-color: #333;
+    border: 0;
+    content: "";
+    opacity: .5;
+}
+
+/*
+ Figure Captions
+*/
+caption {
+    display: table-caption;
+    text-align: center;
+    color:gray;font-style:italic;font-family:Courier;text-align:left;display:table-caption;
+}
+
+/*
+ Color block for tip
+ */
+.tip {
+    background-color: #ccc;
+    color: #666;
+    font-size:0.6rem;
+    margin-left:50px;
+    margin-right:50px;
+    padding:10px;
+}
+
+/*
+ Fancy line under the sections
+*/
+h3 {
+    margin-top: 60px;
+}
+
+h3:after {
+    display: block;
+    width: 95%;
+    height: 1px;
+    margin: 5px 0 26px;
+    background-color: #F78181;
+    border: 0;
+    content: "";
+    opacity: .5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**
+ preboot grid
+ */
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.row:before,
+.row:after {
+    display: table;
+    content: " ";
+}
+
+.row:after {
+    clear: both;
+}
+
+.grid-4 {
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+@media (min-width: 768px) {
+    .grid-4 {
+        float: left;
+        width: 33.33333333333333%;
+    }
+}
+
+
+.play-button {
+    height: 40px;
+    width: 65px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 5px;
+    position: relative;
+}
+
+.play-button:hover {
+    background-color: rgba(0, 173, 239, 0.9);
+}
+
+.play-button:after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 10.5px;
+    left: 24px;
+    margin: 0 auto;
+    border-style: solid;
+    border-width: 9.5px 0 9.5px 17px;
+    border-color: transparent transparent transparent rgba(255, 255, 255, 1);
+}

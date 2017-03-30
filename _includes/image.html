@@ -1,0 +1,25 @@
+{% comment %}
+<table class="image" style="border:solid 0px #c0c0c0;margin: 20px 10px 20px 40px; width:80%;">
+
+  <tr>
+    <td style="padding:1px;text-align:center;">
+      <img style="display:block; margin:0 auto;" src="{{ include.url }}" alt="{{ include.description }}" />
+    </td>
+  </tr>
+  <tr>
+  <td style="color:gray;font-style:italic;font-family:Courier;text-align:left;font-size:10px;">
+  	{{ include.description }}
+  </td>
+  </tr>
+</table>
+{% endcomment %}
+
+<div style="margin: 20px 10px 20px 40px; width:80%;padding:10px;">
+<div style="border:solid 0px #c0c0c0;padding:10px;">
+ <img style="display:block; margin:0 auto;" src="{{ include.url }}" alt="{{ include.description }}" />
+ </div>
+ <div style="color:gray;font-style:italic;font-family:Courier;text-align:left;font-size:10px;border:solid 1px #c0c0c0;padding:5px;">
+    	{{ include.description }}
+</div>
+</div>
+    	

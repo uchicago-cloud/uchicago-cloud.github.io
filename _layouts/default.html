@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+    
+    {% include head.html %}
+    
+    <body>
+        {% include sidebar.html %}
+        
+        <div class="content container">
+            {{ content }}
+        
+        <footer>
+            <p>
+            &copy; {{ site.time | date: '%Y' }} <a href='mailto:abinkowski@uchicago.edu'>T.A. Binkowski</a> &middot; All rights reserved &middot; The University of Chicago &middot; Department of Computer Science
+            </p>
+        </footer>
+           </div>
+    </body>
+</html>
