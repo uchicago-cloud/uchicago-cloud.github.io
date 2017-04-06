@@ -46,5 +46,4 @@ version:          2.1.0
 cdn:              http://uchicago.mobi
 
 github:           https://github.com/uchicago-cloud
-playground:       https://github.com/uchicago-cloud/mcps51033-2017-spring-playground
-  repo:           https://github.com/poole/hyde
+playground:       https://github.com/uchicago-cloud/mcps51033-2017-spring-playground/
