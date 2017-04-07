@@ -8,7 +8,7 @@ classpath: MPCS51032/2017-Spring
 
 Session Materials
 =================
-* Session 2 [Slides]({{ site.cdn }}/sessions/session{{page.session}}/MPCS51032-2017-Winter-Lecture{{page.session}}.pdf)
+* Session 2 [Slides]({{ site.cdn }}/sessions/session{{page.session}}/MPCS51033-2017-Winter-Lecture{{page.session}}.pdf)
 * [Class Playground Repository]({{site.playground}})
 
 Links
