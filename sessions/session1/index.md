@@ -1,6 +1,6 @@
 ---
 layout: session
-session: 1
+session_number: 1
 title:   Preview to Backends for Mobile Application
 session: true
 ---

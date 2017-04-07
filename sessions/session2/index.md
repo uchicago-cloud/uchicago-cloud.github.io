@@ -1,6 +1,6 @@
 ---
 layout:  session
-session: 2
+session_number: 2
 title:   Backends for Mobile Applications (aka Pocket Cloud Computing)
 session: true
 classpath: MPCS51032/2017-Spring
@@ -8,7 +8,7 @@ classpath: MPCS51032/2017-Spring
 
 Session Materials
 =================
-* Session 2 [Slides]({{ site.cdn }}/sessions/session{{page.session}}/MPCS51033-2017-Winter-Lecture{{page.session}}.pdf)
+* Session 2 [Slides]({{ site.cdn }}/sessions/session2/MPCS51033-2017-Winter-Lecture2.pdf)
 * [Class Playground Repository]({{site.playground}})
 
 Links
