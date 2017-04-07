@@ -98,6 +98,7 @@ http://--.appspot.com/image/<key>/delete/?id_token=XXX
 You do not have to built a mobile client to interact with the API.   The API will be tested using `curl`, the (amazing) web interface and App Engine console.  I would encourage you to use these during development.  
 
 Example `curl` commands:
+
 ```
 # Get the webform (not too useful)
 curl -X GET http://localhost:8080/
@@ -107,7 +108,7 @@ curl -X GET http://localhost:8080/user/default/json/?id_token=XXXXX
 
 # Upload using a multpart form (note that you need to put the absolute path of the image)
 curl -X POST -H "Content-Type: multipart/form-data" -F caption='curl' -F "image=@kitten.jpg"  http://localhost:8080/post/lolakitty/?id_token=XXXX
-
+```
 
 ### Grading ###
 The application should complete all of the requirements and function without errors.  The application should function on a local development server and have a version running on Google App Engine.  
