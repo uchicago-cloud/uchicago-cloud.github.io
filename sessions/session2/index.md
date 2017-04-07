@@ -82,6 +82,7 @@ http://--.appspot.com/user/<USERNAME>/web/?id_token=XXXX
 # Endpoint for posting images to server. There is an optional "caption" parameter that you can use.
 http://--.appspot.com/post/<USERNAME>/?id_token=XXXX
 ```
+
 * Update the application to validate any request by testing that the token is valid (ie is in the database).
 
 ### Allow Users to Delete Photos ###
