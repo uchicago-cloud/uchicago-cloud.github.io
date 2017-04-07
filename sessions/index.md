@@ -13,7 +13,7 @@ The code below dynamically generates a sidebar nav of pages with
 {% if page.session == true %}
 
 <entry>
- <li>Session {{ page.session_number }} &middot; <a href="{{ page.url }}">{{ page.title }}</a>
+ <li>Session {{ page.session }} &middot; <a href="{{ page.url }}">{{ page.title }}</a>
  </li>
 </entry>
 

@@ -13,22 +13,22 @@ Session Materials
 
 Links
 =====
-* [App Engine charges $6,500 to update a ListProperty on 14.1 million entities | Hacker News](https://news.ycombinator.com/item?id=3431132)
+* [App Engine charges $6,500 to update a ListProperty on 14.1 million entities  Hacker News](https://news.ycombinator.com/item?id=3431132)
 
 
 Resources
 =========
 * Google Cloud Platform Videos
   - [Navigating Google Cloud Platform: a guide for new GCP users (Google Cloud Next '17) - YouTube](https://www.youtube.com/watch?v=5NQHi_zDGy0&t=2641s&list=PLIivdWyY5sqI8RuUibiH8sMb1ExIw0lAR&index=17)
-  - [Google Cloud Next ’17 | "Where should I run my code?" Deciding between Compute Engine, Container Engine, App Engine and more ](https://cloudnext.withgoogle.com/schedule#target=where-should-i-run-my-code-deciding-between-compute-engine-container-engine-app-engine-and-more-91e716a3-813e-43c9-a513-27d3365a449b)
+  - [Google Cloud Next ’17  "Where should I run my code?" Deciding between Compute Engine, Container Engine, App Engine and more ](https://cloudnext.withgoogle.com/schedule#target=where-should-i-run-my-code-deciding-between-compute-engine-container-engine-app-engine-and-more-91e716a3-813e-43c9-a513-27d3365a449b)
   - [Developing made easy on Google Cloud Platform (Google Cloud Next '17)](https://www.youtube.com/watch?v=ykzCUFwHppI&t=16s&list=PLIivdWyY5sqI8RuUibiH8sMb1ExIw0lAR&index=119)
 
 * Google App Engine Standard Environment
-  - [App Engine - Build Scalable Web & Mobile Backends in Any Language  |  Google Cloud Platform](https://cloud.google.com/appengine/)
-  - [Google App Engine Python Standard Environment Documentation  |  App Engine standard environment for Python  |  Google Cloud Platform](https://cloud.google.com/appengine/docs/standard/python/)
+  - [App Engine - Build Scalable Web & Mobile Backends in Any Language     Google Cloud Platform](https://cloud.google.com/appengine/)
+  - [Google App Engine Python Standard Environment Documentation     App Engine standard environment for Python    Google Cloud Platform](https://cloud.google.com/appengine/docs/standard/python/)
 
 * Google App Engine Concepts
-- [Concepts  |  App Engine standard environment for Python  |  Google Cloud Platform](https://cloud.google.com/appengine/docs/standard/python/concepts)
+- [Concepts     App Engine standard environment for Python     Google Cloud Platform](https://cloud.google.com/appengine/docs/standard/python/concepts)
  - [An Overview of App Engine An explanation of App En](https://cloud.google.com/appengine/docs/standard/python/an-overview-of-app-engine)
  - [The Python Runtime Environment A description of th](https://cloud.google.com/appengine/docs/standard/python/runtime)
  - [How Requests are Handled How requests to your appl](https://cloud.google.com/appengine/docs/standard/python/how-requests-are-handled)
@@ -92,9 +92,6 @@ If Snapchat made ephemeral pictures worth a billion dollars, than maybe our appr
 # Add ability to delete a photo
 http://--.appspot.com/image/<key>/delete/?id_token=XXX
 ```
-
-{% include image.html url="http://ecx.images-amazon.com/images/I/51DHQ1GVBPL.jpg" description="Figure 1. Shaq and the Beanstalk." %}
-
 
 ### Mobile Client ###
 You do not have to built a mobile client to interact with the API.   The API will be tested using `curl`, the (amazing) web interface and App Engine console.  I would encourage you to use these during development.  
