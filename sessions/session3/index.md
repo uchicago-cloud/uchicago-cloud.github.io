@@ -10,7 +10,7 @@ Session Materials
 =================
 * Session 3 [Slides]({{ site.cdn }}/sessions/session3/MPCS51033-2017-Spring-Lecture3.pdf)
 * [Class Playground Repository](https://github.com/uchicago-cloud/mpcs51033-2017-spring-playground)
-* Assignment 2, [Part 2 write-up]({{ site.cdn }}/sessions/session3/MPCS51033-2017-Spring-Assignmnt2-Part2.pdf)
+* Assignment 2, [Part 2 write-up]({{ site.cdn }}/sessions/session3/MPCS51033-2017-Spring-Assignment2-Part2.pdf)
 
 Links
 =====
