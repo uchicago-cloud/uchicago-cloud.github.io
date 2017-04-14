@@ -10,6 +10,7 @@ Session Materials
 =================
 * Session 3 [Slides]({{ site.cdn }}/sessions/session3/MPCS51033-2017-Spring-Lecture3.pdf)
 * [Class Playground Repository](https://github.com/uchicago-cloud/mpcs51033-2017-spring-playground)
+* Assignment 2, [Part 2 write-up]({{ site.cdn }}/sessions/session3/MPCS51033-2017-Spring-Assignemnt2-Part2.pdf)
 
 Links
 =====
@@ -18,6 +19,10 @@ Links
 
 Resources
 =========
+
+* Building Scalable Apps (2011, but still relevant)
+  - [Google I/O 2011: Scaling App Engine Applications - YouTube](https://www.youtube.com/watch?v=rP-kjrx9CRE&feature=youtu.be&app=desktop)
+
 * Datastore
   - [Building scalable apps with Cloud Datastore (Google Cloud Next '17) - YouTube](https://www.youtube.com/watch?v=0EIqacNVuAo&t=11s)
 
@@ -130,7 +135,7 @@ Companion mobile apps should compile with no errors or warnings and perform all 
 Feel free to explore additional enhancements to improve the appearance or functionality of the application.
 
 ## Part 2 ##
-In this part of the assignment, you will create a custom mobil application analytics platform.  You will be responsible for the design and implementation of the backend.
+In this part of the assignment, you will create a custom mobile application analytics platform.  You will be responsible for the design and implementation of the backend.
 
 The analytics platform will track the following:
   * Track unique users - visits, time duration
@@ -140,6 +145,7 @@ The analytics platform will track the following:
 
 More specific details about further requirements will be discussed next week.
 
+Please see [the write-up]({{ site.cdn }}/sessions/session3/MPCS51033-2017-Spring-Assignemnt2-Part2.pdf)
 
 ### Due Date ####
 Assignment 2 is due **April 19, 2017 at 5:29pm.** Use the assignment repos in GitHub to submit your assignment.  Please inlcude the URL of the applications in their respective README.md file.
