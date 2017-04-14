@@ -135,6 +135,10 @@ Companion mobile apps should compile with no errors or warnings and perform all 
 Feel free to explore additional enhancements to improve the appearance or functionality of the application.
 
 ## Part 2 ##
+
+> Please see [the write-up]({{ site.cdn }}/sessions/session3/MPCS51033-2017-Spring-Assignemnt2-Part2.pdf)
+
+
 In this part of the assignment, you will create a custom mobile application analytics platform.  You will be responsible for the design and implementation of the backend.
 
 The analytics platform will track the following:
@@ -144,8 +148,6 @@ The analytics platform will track the following:
   * Send a daily email summary of all the user activity in your app
 
 More specific details about further requirements will be discussed next week.
-
-Please see [the write-up]({{ site.cdn }}/sessions/session3/MPCS51033-2017-Spring-Assignemnt2-Part2.pdf)
 
 ### Due Date ####
 Assignment 2 is due **April 19, 2017 at 5:29pm.** Use the assignment repos in GitHub to submit your assignment.  Please inlcude the URL of the applications in their respective README.md file.
