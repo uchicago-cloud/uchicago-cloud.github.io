@@ -150,4 +150,4 @@ The analytics platform will track the following:
 More specific details about further requirements will be discussed next week.
 
 ### Due Date ####
-Assignment 2 is due **April 19, 2017 at 5:29pm.** Use the assignment repos in GitHub to submit your assignment.  Please inlcude the URL of the applications in their respective README.md file.
+Assignment 2 is due **April 20, 2017 at 5:29pm.** Use the assignment repos in GitHub to submit your assignment.  Please inlcude the URL of the applications in their respective README.md file.
