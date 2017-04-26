@@ -58,12 +58,3 @@ Complete the following tutorials:
 
 ### Due Date ####
 Assignment 2 is due ** May 4, 2017 at 5:29pm.** Use the assignment repos in GitHub to submit your assignment.  Please include the URL of the Firebase applications in their respective README.md file.
-
-
-
-Assignment 3
-============
-* Assignment 3, [Part 3 write-up]({{ site.cdn }}/sessions/session5/MPCS51033-2017-Spring-Assignment3-Part2.pdf)
-
-### Due Date ####
-Assignment 2 is due ** May 4, 2017 at 5:29pm.** Use the assignment repos in GitHub to submit your assignment.  Please include the URL of the Firebase applications in their respective README.md file.

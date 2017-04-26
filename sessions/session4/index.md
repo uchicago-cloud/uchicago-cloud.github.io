@@ -38,7 +38,6 @@ Resources
 * Crash reporting
   - [Introducing Firebase Crash Reporting - YouTube](https://www.youtube.com/watch?list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL&v=B7mlLVAkcfU)
 
-
 * CocoaPods
   - CocoaPods.org](https://cocoapods.org/)
 
