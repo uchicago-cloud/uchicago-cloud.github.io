@@ -28,7 +28,7 @@ Resources
 
 * Realtime Database
     * https://firebase.google.com/docs/database/
-    *  [Get Started with Database Rules  |  Firebase](https://firebase.google.com/docs/database/security/quickstart)
+    *  [Get Started with Database Rules  Firebase](https://firebase.google.com/docs/database/security/quickstart)
 
 * Auth
     *  [Getting Started with Firebase Auth on iOS - Firecasts - YouTube](https://www.youtube.com/watch?v=PrXmRaoZmD4)
@@ -43,14 +43,14 @@ Resources
   - [Introducing Firebase Crash Reporting - YouTube](https://www.youtube.com/watch?list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL&v=B7mlLVAkcfU)
 
 * CocoaPods
-  - CocoaPods.org](https://cocoapods.org/)
+  - [CocoaPods.org](https://cocoapods.org/)
 
 
 Assignment
 ============
 ### Part 1 ###
 Complete the following tutorials:
-* https://codelabs.developers.google.com/codelabs/firebase-ios-swift/index.html?index=..%2F..%2Findex#0
+* https://codelabs.developers.google.com/codelabs/firebase-ios-swift/index.html
 * https://www.raywenderlich.com/139322/firebase-tutorial-getting-started-2
 
 ### Part 2 ###
