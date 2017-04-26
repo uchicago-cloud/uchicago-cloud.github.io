@@ -54,7 +54,8 @@ Complete the following tutorials:
 * https://www.raywenderlich.com/139322/firebase-tutorial-getting-started-2
 
 ### Part 2 ###
-* Assingment 3[Part 3 write-up]({{ site.cdn }}/sessions/session5/MPCS51033-2017-Spring-Assignment3-Part2.pdf)
+<!--* Assingment 3[Part 3 write-up]({{ site.cdn }}/sessions/session5/MPCS51033-2017-Spring-Assignment3-Part2.pdf)-->
+* Assingment 3 - [Part 2 write-up](https://github.com/uchicago-cloud/uchicago-cloud.github.io/raw/master/sessions/session5/mpcs51033-2017-spring-assignment3-part2.pdf)
 
 ### Due Date ####
 Assignment 2 is due ** May 4, 2017 at 5:29pm.** Use the assignment repos in GitHub to submit your assignment.  Please include the URL of the Firebase applications in their respective README.md file.
