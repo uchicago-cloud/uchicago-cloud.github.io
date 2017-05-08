@@ -1,6 +1,6 @@
 ---
 layout:  session
-session_number: 5
+session_number: 6
 title:   CloudKit
 session: true
 classpath: MPCS51033-2017/2017-Spring
@@ -68,4 +68,4 @@ Review the following tutorials (as needed).  You do not need to submit anything 
 See slides,
 
 ### Due Date ####
-Assignment 2 is due ** May 31, 2017 at 5:29pm.** Use the assignment repos in GitHub to submit your assignment.  Please include the URL of the Firebase applications in their respective README.md file.
+Assignment 2 is due ** May 17, 2017 at 5:29pm.** Use the assignment repos in GitHub to submit your assignment.  Please include the URL of the Firebase applications in their respective README.md file.
