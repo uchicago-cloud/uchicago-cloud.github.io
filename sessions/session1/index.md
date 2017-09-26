@@ -27,14 +27,14 @@ Resources
   - [Google App Engine Python Standard Environment Documentation     App Engine standard environment for Python Google Cloud Platform](https://cloud.google.com/appengine/docs/standard/python/)
 
 * Important Concepts in Google App Engine for Python
- - [App Engine standard environment for Python Google Cloud Platform](https://cloud.google.com/appengine/docs/standard/python/concepts)
- - [An Overview of App Engine](https://cloud.google.com/appengine/docs/standard/python/an-overview-of-app-engine)
- - [The Python Runtime Environment](https://cloud.google.com/appengine/docs/standard/python/runtime)
- - [How Requests are Handled How](https://cloud.google.com/appengine/docs/standard/python/how-requests-are-handled)
- - [How Requests are Routed](https://cloud.google.com/appengine/docs/standard/python/how-requests-are-routed)
- - [How Instances are Managed](https://cloud.google.com/appengine/docs/standard/python/how-instances-are-managed)
- - [Access Control Set](https://cloud.google.com/appengine/docs/standard/python/access-control)
- - [Application Security](https://cloud.google.com/appengine/docs/standard/python/application-security)
+  - [App Engine standard environment for Python Google Cloud Platform](https://cloud.google.com/appengine/docs/standard/python/concepts)
+  - [An Overview of App Engine](https://cloud.google.com/appengine/docs/standard/python/an-overview-of-app-engine)
+  - [The Python Runtime Environment](https://cloud.google.com/appengine/docs/standard/python/runtime)
+  - [How Requests are Handled How](https://cloud.google.com/appengine/docs/standard/python/how-requests-are-handled)
+  - [How Requests are Routed](https://cloud.google.com/appengine/docs/standard/python/how-requests-are-routed)
+  - [How Instances are Managed](https://cloud.google.com/appengine/docs/standard/python/how-instances-are-managed)
+  - [Access Control Set](https://cloud.google.com/appengine/docs/standard/python/access-control)
+  - [Application Security](https://cloud.google.com/appengine/docs/standard/python/application-security)
 
 
 Assignment
