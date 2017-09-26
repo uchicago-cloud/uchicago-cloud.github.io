@@ -2,7 +2,7 @@
 layout:  session
 session_number: 8
 title:   Swift on the Server
-session: true
+session: false
 classpath: MPCS51033-2017/2017-Spring
 ---
 

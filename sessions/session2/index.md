@@ -2,7 +2,7 @@
 layout:  session
 session_number: 2
 title:   Backends for Mobile Applications (aka Pocket Cloud Computing)
-session: true
+session: false
 classpath: MPCS51032/2017-Spring
 ---
 

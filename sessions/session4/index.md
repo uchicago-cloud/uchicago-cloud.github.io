@@ -2,7 +2,7 @@
 layout:  session
 session_number: 4
 title:   Firebase
-session: true
+session: false
 classpath: MPCS51032/2017-Spring
 ---
 
