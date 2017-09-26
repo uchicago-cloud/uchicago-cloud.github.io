@@ -7,7 +7,7 @@ session: true
 
 Session Materials
 ================================================================
-* Session 1 [Slides]({{ site.cdn }}/sessions/session1/MPCS51033-2017-autumn-lecture-1.pdf)
+* Session 1 [Slides]({{ site.cdn }}/sessions/session{{session_number}}/MPCS51033-2017-autumn-lecture-{{session_number}}.pdf)
 
 Interesting Links
 ================================================================
@@ -39,13 +39,14 @@ Resources
 
 Assignment
 ================================================================================
-* Sign up for GCP account and add educational credits
-
 * Sign up for GitHub
 
 * [Sign up](https://join.slack.com/t/mpcs51033-2017-autumn/shared_invite/enQtMjQ2OTkwNjIwMzA2LTA5MTNiZjRkOTA3ZDQ4Yzc1ZmNhZjNjMjU4OTc3MTc0ZjM5MTg2ZTg1OTVlYTg4YmM5NzFkNTIwOTU0N2E0NWE) for Slack and join the class team
   - Post an introductory message in `#general`.  Tell us a little about yourself and some things you are interested in learning in this course.
   - Send me a direct message with you GitHub user id so I can add you to classroom.
+
+* Sign up for GCP account and add educational credits
+  - Link is in Slack #general
 
 * Review the documentation for [Python on Google App Engine](https://cloud.google.com/appengine/docs/python/) for the [Standard Environment](https://cloud.google.com/appengine/docs/standard/python/).  
 >There is quite a bit of fragmented information about App Engine in the documentation so there isn't a linear path to reading it.  You should just try to become familiar with some of the capabilities and terminology, we will review it in the first class.
