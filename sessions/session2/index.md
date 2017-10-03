@@ -9,7 +9,7 @@ classpath: MPCS51032/2017-Spring
 Session Materials
 ================================================================================
 * [Slides]({{ site.cdn }}/sessions/session2/mpcs51033-2017-autumn-lecture-2.pdf)
-* [Class Playground Repository](https://github.com/uchicago-cloud/mpcs51033-2017-spring-playground)
+
 
 Resources
 ================================================================================
