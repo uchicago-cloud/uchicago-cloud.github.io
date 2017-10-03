@@ -56,6 +56,8 @@ Our data model works fine for a small number of users, but if (when ) our app go
   - `password`
   - `id_token` (a unique urlsafe string that anonymously identifies this user)
 
+![](assets/index-dcf26529.png)
+
 * Update the `Photo` model to reflect the new `User` model.  We will no longer need to keep track of the user who took the photo since we will have a reference to it from the `User` object.  Remember that every bit of data we store has a resource and economic cost.
 
 * Update all the queries to take advantage of the new `User` model
