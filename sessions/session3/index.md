@@ -151,3 +151,15 @@ More specific details about further requirements will be discussed next week.
 
 ### Due Date ####
 Assignment 2 is due **April 20, 2017 at 5:29pm.** Use the assignment repos in GitHub to submit your assignment.  Please inlcude the URL of the applications in their respective README.md file.
+
+
+## Part 2 ##
+In this part of the assignment, you will create a custom mobil application analytics platform.  You will be responsible for the design and implementation of the backend.
+
+The analytics platform will track the following:
+  * Track unique users - visits, time duration
+  * Track events - clicks, navigation
+  * Touch heat map - track touches
+  * Send a daily email summary of all the user activity in your app
+
+More specific details about further requirements will be discussed next week.
