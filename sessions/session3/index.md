@@ -10,12 +10,7 @@ Session Materials
 =================
 * [Slides]({{ site.cdn }}/sessions/session3/mpcs51033-2017-autumn-lecture-3.pdf)
 
-* Assignment 3, [write-up]({{ site.cdn }}/sessions/session3/mpcs51033-2017-Spring-assignment3.pdf)
-
-Links
-=====
-* [App Engine charges $6,500 to update a ListProperty on 14.1 million entities  Hacker News](https://news.ycombinator.com/item?id=3431132)
-
+* Assignment 3 [write-up]({{ site.cdn }}/sessions/session3/mpcs51033-2017-autumn-assignment3.pdf)
 
 Resources
 =========
