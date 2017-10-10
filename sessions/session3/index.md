@@ -2,7 +2,7 @@
 layout:  session
 session_number: 3
 title:   Best Practices with App Engine
-session: false
+session: true
 classpath: MPCS51032/2017-Spring
 ---
 
