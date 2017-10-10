@@ -8,9 +8,9 @@ classpath: MPCS51032/2017-Spring
 
 Session Materials
 =================
-* Session 3 [Slides]({{ site.cdn }}/sessions/session3/MPCS51033-2017-Spring-Lecture3.pdf)
-* [Class Playground Repository](https://github.com/uchicago-cloud/mpcs51033-2017-spring-playground)
-* Assignment 2, [Part 2 write-up]({{ site.cdn }}/sessions/session3/MPCS51033-2017-Spring-Assignment2-Part2.pdf)
+* [Slides]({{ site.cdn }}/sessions/session3/mpcs51033-2017-autumn-lecture-3.pdf)
+
+* Assignment 3, [write-up]({{ site.cdn }}/sessions/session3/mpcs51033-2017-Spring-assignment3.pdf)
 
 Links
 =====
