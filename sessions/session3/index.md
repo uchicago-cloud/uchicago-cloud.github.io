@@ -31,6 +31,7 @@ Resources
   - [What is a rest API](https://tutorialedge.net/general/what-is-a-rest-api/)
   - [The Basics of REST and RESTful API Development](http://www.hongkiat.com/blog/rest-restful-api-dev/)
   - [APIs on Azure](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+  - [Swagger](https://swagger.io)
 
   * Microservices
     - [Microservices Architecture on Google App Engine](https://cloud.google.com/appengine/docs/standard/python/microservices-on-app-engine)
