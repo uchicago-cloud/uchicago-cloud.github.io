@@ -24,7 +24,7 @@ Resources
 
 * Realtime Database
     * https://firebase.google.com/docs/database/
-    *  [Get Started with Database Rules  |  Firebase](https://firebase.google.com/docs/database/security/quickstart)
+    *  [Get Started with Database Rules](https://firebase.google.com/docs/database/security/quickstart)
 
 * Auth
     *  [Getting Started with Firebase Auth on iOS - Firecasts - YouTube](https://www.youtube.com/watch?v=PrXmRaoZmD4)
