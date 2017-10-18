@@ -18,6 +18,7 @@ Resources
   * [Introducing Firebase - YouTube](https://www.youtube.com/watch?list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL&v=O17OWyx08Cg)
   * [Firebase Overview - Google I/O 2016 - YouTube](https://www.youtube.com/watch?v=tb2GZ3Bh4p8&t=178s)
   - [FirebaseUI](https://github.com/firebase/FirebaseUI-iOS)
+  - [Best practices for View Controllers](https://firebase.googleblog.com/2015/10/best-practices-for-ios-uiviewcontroller_6.html)
 
 * Firebase storage
   - [Introducing Firebase Storage - YouTube](https://www.youtube.com/watch?list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL&v=_tyjqozrEPY)
