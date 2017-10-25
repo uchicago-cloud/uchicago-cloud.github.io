@@ -2,49 +2,48 @@
 layout:  session
 session_number: 5
 title:   Even More Firebase
-session: false
+session: true
 classpath: MPCS51032/2017-Spring
 ---
 
 Session Materials
 =================
-* Session 5 [Slides]({{ site.cdn }}/sessions/session5/MPCS51033-2017-Spring-Lecture5.pdf)
-* [Class Playground Repository](https://github.com/uchicago-cloud/mpcs51033-2017-spring-playground)
+* Session 4 [Slides]({{ site.cdn }}/sessions/session5/mpcs51033-2017-autumn-lecture-5.pdf)
 
 Resources
 =========
-* Sharding Redux
-  - [Sharding counters](https://cloud.google.com/appengine/articles/sharding_counters)
-  - [High concurrency counters without sharding - Nick's Blog](http://blog.notdot.net/2010/04/High-concurrency-counters-without-sharding)
-  - [GAE and Python](https://books.google.com/books?id=4BIDCgAAQBAJ&pg=PA211&lpg=PA211&dq=sharding+entities++in+app+engine&source=bl&ots=lmKklyRasc&sig=J-qjh-WJz76sPQ6cGKbxEnqr0p4&hl=en&sa=X&ved=0ahUKEwiArPezmMDTAhUX62MKHZnTBpo4ChDoAQhIMAc#v=onepage&q=sharding%20entities%20%20in%20app%20engine&f=false)
+* Firebase Cloud Functions
+  - [Codelab for chat app](https://codelabs.developers.google.com/codelabs/firebase-cloud-functions/index.html?index=..%2F..%2Findex#0)
 
-* Firebase
-  * [Introducing Firebase - YouTube](https://www.youtube.com/watch?list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL&v=O17OWyx08Cg)
-  * [Firebase Overview - Google I/O 2016 - YouTube](https://www.youtube.com/watch?v=tb2GZ3Bh4p8&t=178s)
-  - [FirebaseUI](https://github.com/firebase/FirebaseUI-iOS)
+* Firestore
+ - [Codelab Restaurant Rater](https://codelabs.developers.google.com/codelabs/firestore-ios/#0)
 
-* Firebase storage
-  - [Introducing Firebase Storage - YouTube](https://www.youtube.com/watch?list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL&v=_tyjqozrEPY)
+* Firebase Invites
+ - [Firebase Invites](https://firebase.google.com/docs/invites/ios)
 
-* Realtime Database
-    * https://firebase.google.com/docs/database/
-    *  [Get Started with Database Rules  Firebase](https://firebase.google.com/docs/database/security/quickstart)
+* Firebase Remote Config
+ - [Remote Config](https://firebase.google.com/docs/remote-config/use-config-ios)
 
-* Auth
-    *  [Getting Started with Firebase Auth on iOS - Firecasts - YouTube](https://www.youtube.com/watch?v=PrXmRaoZmD4)
+* Firebase Dynamic Links
+ - [Dynamic Links](https://firebase.google.com/docs/dynamic-links/)
+
+* Apple Push Notifications
+  - [Push Notifications Tutorial: Getting Started - Ray Wenderlich]( https://www.raywenderlich.com/156966/push-notifications-tutorial-getting-started)
+  - [Local and Remote Notification Programming Guide](https://developer.apple.com/library/content/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/APNSOverview.html#//apple_ref/doc/uid/TP40008194-CH8-SW1)
+  - [Generate APNS certificate for iOS Push Notifications](https://medium.com/@ankushaggarwal/generate-apns-certificate-for-ios-push-notifications-85e4a917d522)
 
 * Analytics
-    - [Use Firebase Analytics to Build Extraordinary Apps - Google I/O 2016 - YouTube](https://www.youtube.com/watch?v=yi23CLNeGaw&t=923s)
-    - [Getting Started with Firebase Analytics on iOS: Ev](https://www.youtube.com/watch?v=5pYdTgSkW5E)
-[Getting started with Firebase Analytics, BigQuery ](https://www.youtube.com/watch?v=Ki_F6VCOtXU)
-- [Firebase](https://www.youtube.com/user/Firebase)
+   - [Use Firebase Analytics to Build Extraordinary Apps - Google I/O 2016 - YouTube](https://www.youtube.com/watch?v=yi23CLNeGaw&t=923s)
+   - [Getting Started with Firebase Analytics on iOS: Ev](https://www.youtube.com/watch?v=5pYdTgSkW5E)
+ [Getting started with Firebase Analytics, BigQuery ](https://www.youtube.com/watch?v=Ki_F6VCOtXU)
+   - [Firebase](https://www.youtube.com/user/Firebase)
 
 * Crash reporting
-  - [Introducing Firebase Crash Reporting - YouTube](https://www.youtube.com/watch?list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL&v=B7mlLVAkcfU)
+   - [Introducing Firebase Crash Reporting - YouTube](https://www.youtube.com/watch?list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL&v=B7mlLVAkcfU)
 
 * CocoaPods
-  - [CocoaPods.org](https://cocoapods.org/)
-
+   - [CocoaPods.org](https://cocoapods.org/)
+   - [An Introduction to Cocoa Pods](https://www.youtube.com/watch?v=iEAjvNRdZa0)
 
 Assignment
 ============
