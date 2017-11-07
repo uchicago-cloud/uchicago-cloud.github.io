@@ -1,15 +1,10 @@
 ---
 layout:  session
 session_number: 6
-title:   CloudKit
-session: false
+title:   Happy Halloween & CloudKit
+session: true
 classpath: MPCS51033-2017/2017-Spring
 ---
-
-Session Materials
-=================
-* Session 6 [Slides]({{ site.cdn }}/sessions/session6/MPCS51033-2017-Spring-Lecture6.pdf)
-* [Class Playground Repository](https://github.com/uchicago-cloud/mpcs51033-2017-spring-playground)
 
 Resources
 =========
@@ -63,9 +58,3 @@ Watch the following videos (as needed).  Watch from 2014-2016:
 Review the following tutorials (as needed).  You do not need to submit anything for the assignment:
   -  [CloudKit Tutorial: Getting Started](https://www.raywenderlich.com/134694/cloudkit-tutorial-getting-started)
   - [An iOS 10 CloudKit Example](http://www.techotopia.com/index.php/An_iOS_8_CloudKit_Example)
-
-### Part 2 ###
-See slides,
-
-### Due Date ####
-Assignment 2 is due ** May 17, 2017 at 5:29pm.** Use the assignment repos in GitHub to submit your assignment.  Please include the URL of the Firebase applications in their respective README.md file.
