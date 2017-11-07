@@ -7,7 +7,7 @@ classpath: MPCS51033-2017/2017-Spring
 ---
 
 ## Session Materials ##
-* Session 6 [Slides]({{ site.cdn }}/sessions/session6/mpcs51033-2017-autumn-lecture-6.pdf)
+* Session 7 [Slides]({{ site.cdn }}/sessions/session7/mpcs51033-2017-autumn-lecture-7.pdf)
 
 
 ## Resources ##
