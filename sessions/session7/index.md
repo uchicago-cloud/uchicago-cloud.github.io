@@ -1,22 +1,16 @@
 ---
 layout:  session
 session_number: 7
-title:   Server-to-Server CloudKit
-session: false
+title:   CloudKit
+session: true
 classpath: MPCS51033-2017/2017-Spring
 ---
 
-Session Materials
-=================
-* Session 7 [Slides]({{ site.cdn }}/sessions/session7/MPCS51033-2017-Spring-Lecture7.pdf)
-* [Class Playground Repository](https://github.com/uchicago-cloud/mpcs51033-2017-spring-playground)
-
-Resources
-=========
-* [CloudKit Web Services](https://developer.apple.com/library/content/documentation/DataManagement/Conceptual/CloudKitWebServicesReference/SettingUpWebServices/SettingUpWebServices.html#//apple_ref/doc/uid/TP40015240-CH24-SW6)
-* [CloudKit JS - Apple Developer Documentation](https://developer.apple.com/reference/cloudkitjs)
+## Session Materials ##
+* Session 6 [Slides]({{ site.cdn }}/sessions/session6/mpcs51033-2017-autumn-lecture-6.pdf)
 
 
+## Resources ##
 * [iCloud - Apple Developer Videos](https://developer.apple.com/icloud/)
   - [What's New in CloudKit](https://developer.apple.com/videos/play/wwdc2016/226/)
   - [CloudKit Best Practices](https://developer.apple.com/videos/play/wwdc2016/231/)
@@ -32,6 +26,7 @@ Resources
   - [iCloud Design Guide](https://developer.apple.com/library/ios/icloud_design_guide)
   - [iOS Data Storage Guidelines](https://developer.apple.com/icloud/documentation/data-storage/)
   - [Preventing files from being backed up to iCloud or](https://developer.apple.com/library/ios/qa/qa1719/)
+  - [Maintain local copy of recors](https://developer.apple.com/library/content/documentation/DataManagement/Conceptual/CloudKitQuickStart/MaintainingaLocalCacheofCloudKitRecords/MaintainingaLocalCacheofCloudKitRecords.html)
 
   * JS API Sample Site
   - [CloudKit Catalog](https://cdn.apple-cloudkit.com/cloudkit-catalog/)
@@ -53,7 +48,21 @@ Resources
 
 Assignment
 ============
-See [write-up](mpcs51033-2017-spring-assignment4.pdf)
+### From Last Week ###
+Watch the following videos (as needed).  Watch from 2014-2016:
+- [What's New in CloudKit](https://developer.apple.com/videos/play/wwdc2016/226/)
+- [CloudKit Best Practices](https://developer.apple.com/videos/play/wwdc2016/231/)
+- [CloudKit JS and Web Services](https://developer.apple.com/videos/play/wwdc2015/710/)
+- [CloudKit Tips and Tricks](https://developer.apple.com/videos/play/wwdc2015/715/)
+- [Introducing CloudKit](https://developer.apple.com/videos/play/wwdc2014/208/)
+- [Advanced CloudKit](https://developer.apple.com/videos/play/wwdc2014/231/)
+
+Review the following tutorials (as needed).  You do not need to submit anything for the assignment:
+  -  [CloudKit Tutorial: Getting Started](https://www.raywenderlich.com/134694/cloudkit-tutorial-getting-started)
+  - [An iOS 10 CloudKit Example](http://www.techotopia.com/index.php/An_iOS_8_CloudKit_Example)
+
+### Write Up ###
+See attached [write-up](mcps51033-2017-autumn-assignment5.pdf).
 
 ### Due Date ####
-Assignment 4 is due **May 17, 2017 at 5:29pm.** Use the assignment repos in GitHub to submit your assignment.  
+Assignment 5 is due ** November 21, 2017 at 5:29pm.** Use the assignment repos in GitHub to submit your assignment.
