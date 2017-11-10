@@ -62,7 +62,7 @@ Review the following tutorials (as needed).  You do not need to submit anything 
   - [An iOS 10 CloudKit Example](http://www.techotopia.com/index.php/An_iOS_8_CloudKit_Example)
 
 ### Write Up ###
-See attached [write-up](mcps51033-2017-autumn-assignment5.pdf).
+See attached [write-up](mpcs51033-2017-autumn-assignment5.pdf).
 
 ### Due Date ####
 Assignment 5 is due ** November 21, 2017 at 5:29pm.** Use the assignment repos in GitHub to submit your assignment.
