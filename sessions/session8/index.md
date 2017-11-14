@@ -8,8 +8,7 @@ classpath: MPCS51033-2017/2017-Spring
 
 Session Materials
 =================
-* Session 7 [Slides]({{ site.cdn }}/sessions/session7/MPCS51033-2017-Spring-Lecture7.pdf)
-* [Class Playground Repository](https://github.com/uchicago-cloud/mpcs51033-2017-spring-playground)
+* Session 8 [Slides]({{ site.cdn }}/sessions/session8/mpcs51033-2017-autumn-lecture-8.pdf)
 
 Resources
 =========
@@ -50,10 +49,12 @@ Resources
   - [Working With CloudKit Demo](http://www.appcoda.com/cloudkit-introduction-tutorial/)
   - [iOS8 Day-by-Day: Day 33 - CloudKit](http://www.shinobicontrols.com/blog/posts/2014/10/15/ios8-day-by-day-day-33-cloudkit)
 
+* Vapor
+  - [Setup Postgres with Vapor 2.0](https://medium.com/pier31co/setup-postgres-with-vapor-2-0-32756865549f)
 
 Assignment
 ============
-See [write-up](mpcs51033-2017-spring-assignment4.pdf)
+See [write-up](mpcs51033-2017-spring-assignment5.pdf)
 
 ### Due Date ####
-Assignment 4 is due **May 17, 2017 at 5:29pm.** Use the assignment repos in GitHub to submit your assignment.  
+Assignment 5 is due **November 21, 2017 at 5:29pm**. Use the assignment repos in GitHub to submit your assignment.
