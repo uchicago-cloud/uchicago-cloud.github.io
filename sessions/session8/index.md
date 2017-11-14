@@ -1,8 +1,8 @@
 ---
 layout:  session
-session_number: 7
+session_number: 8
 title:   Server-to-Server CloudKit
-session: false
+session: true
 classpath: MPCS51033-2017/2017-Spring
 ---
 
