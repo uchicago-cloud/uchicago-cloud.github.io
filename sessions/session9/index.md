@@ -1,15 +1,14 @@
 ---
 layout:  session
-session_number: 8
+session_number: 9
 title:   Swift on the Server
-session: false
+session: true
 classpath: MPCS51033-2017/2017-Spring
 ---
 
 Session Materials
 ====================================================================================================
-* Session 7 [Slides]({{ site.cdn }}/sessions/session7/MPCS51033-2017-Spring-Lecture7.pdf)
-* [Swift of the Server](https://github.com/uchicago-cloud/mpcs51033-2017-spring-playground/tree/master/swift-server) Playgrounds using Vapor and Perfect
+* Session 9 [Slides]({{ site.cdn }}/sessions/session9/mpcs51033-2017-autumn-lecture-9.pdf)
 
 Resources
 ====================================================================================================
@@ -37,7 +36,4 @@ Swift Server Frameworks
 
 Assignment
 ============
-* See [write-up]({{ site.cdn }}/sessions/session8/mpcs51033-2017-spring-assignment5.pdf)
-
-### Due Date ####
-Assignment 4 is due **May 17, 2017 at 5:29pm.** Use the assignment repos in GitHub to submit your assignment.  
+Work on your final projects.
