@@ -28,23 +28,21 @@ Resources
   - [APIs on Azure](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
   - [Swagger](https://swagger.io)
 
-  * Microservices
-    - [Microservices Architecture on Google App Engine](https://cloud.google.com/appengine/docs/standard/python/microservices-on-app-engine)
+* Microservices
+  - [Microservices Architecture on Google App Engine](https://cloud.google.com/appengine/docs/standard/python/microservices-on-app-engine)
     -
   https://cloudplatform.googleblog.com/2016/06/creating-a-scalable-API-with-microservices.html
     - [Building scalable apps with Cloud Datastore (Google Cloud Next '17) - YouTube](https://www.youtube.com/watch?v=0EIqacNVuAo&t=11s)
 
-
-  * Sharding
-    - [Sharding counters](https://cloud.google.com/appengine/articles/sharding_counters)
-    - [High concurrency counters without sharding - Nick's Blog](http://blog.notdot.net/2010/04/High-concurrency-counters-without-sharding)
+* Sharding
+  - [Sharding counters](https://cloud.google.com/appengine/articles/sharding_counters)
+  - [High concurrency counters without sharding - Nick's Blog](http://blog.notdot.net/2010/04/High-concurrency-counters-without-sharding)
 
 
 * Tasks
   -
 [Using Pull Queues in Python](https://cloud.google.com/appengine/docs/standard/python/taskqueue/overview-pull)
-
-  -  [Background work with the deferred library  |  App Engine Documentation  |  Google Cloud Platform](https://cloud.google.com/appengine/articles/deferred)
+-  [Background work with the deferred library -  App Engine Documentation  -  Google Cloud Platform](https://cloud.google.com/appengine/articles/deferred)
 
 
 * Scheduling Cron Tasks
@@ -69,5 +67,5 @@ The analytics platform will track the following:
   * Touch heat map - track touches
   * Send a daily email summary of all the user activity in your app
 
-### Due Date ####,
+### Due Date ###
 Assignment 3 is due **October 19, 2017 at 5:29pm.** Use the assignment repos in GitHub to submit your assignment.  Please include the URL of the applications in the respective README.md file.
