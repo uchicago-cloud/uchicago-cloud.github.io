@@ -54,7 +54,7 @@ Resources
 
 Assignment
 ============
-See [write-up](mpcs51033-2017-spring-assignment5.pdf)
+See [write-up](mpcs51033-2017-autumn-assignment5.pdf)
 
 ### Due Date ####
 Assignment 5 is due **November 21, 2017 at 5:29pm**. Use the assignment repos in GitHub to submit your assignment.
