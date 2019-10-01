@@ -8,9 +8,6 @@ The code below dynamically generates a sidebar nav of pages with
 `layout: page` in the front-matter. See readme for usage.
 {% endcomment %}
 
-<ul>Session 1 · [Welcome to Backends for Mobile Application](http://uchicago.cloud/sessions/session1/)</ul>
-
-<!--
 <ul>
 {% for page in site.pages %}
 {% if page.session == true %}
@@ -24,8 +21,9 @@ The code below dynamically generates a sidebar nav of pages with
 {% endfor %}
 </ul>
 
+
+
 {% comment %}
 <h1>Final Project Requirements</h1>
 * Final project [checklist](https://{{ site.cdn }}/MPCS51030/2015-Winter/2015-Winter-FinalProjectRequirements.pdf)
 {% endcomment %}
--->
