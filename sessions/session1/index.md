@@ -42,7 +42,6 @@ Assignment
 * Sign up for GitHub.
 
 * Post an introduction in the Welcome post in the forum [forum](https://github.com/uchicago-cloud/mpcs51033-2019-autumn/issues)
-* Accept this assingment [repo](https://classroom.github.com/a/tae_dc5f) from GitHub Classroom.
 
 * Sign up for GCP account and add educational credits
   - Links will be emailed to you
@@ -55,7 +54,7 @@ Assignment
 * Complete the following tutorial: [Guestbook tutorial](https://cloud.google.com/appengine/docs/standard/python/tutorials).  Please use the following [repository](https://classroom.github.com/a/tae_dc5f). In addition the tutorial as written, please add the additional features:
   - Update the `Greeting` data model by adding a property named `user_agent` that includes the HTTP user agent.  This is useful to determine which browser and device is making a request (ie. detect a mobile device).  The `user_agent` should be a string type.
 
-*  You do not have to built a mobile client to interact with the Guestbook application, however, it is often useful to develop tools that allow you to rapidly test web services and APIs with having to physically switch clients.  Develop command line statements using the UNIX `curl` command to interact with the guestbook.
+*  You do not have to built a mobile client to interact with the Guestbook application, however, it is often useful to develop tools that allow you to rapidly test web services and APIs with having to physically switch clients.  Develop command line statements using the UNIX `curl` command to interact with the guestbook.   Write out the commands you used in the repository `README.md` file.
 
   Example `curl` commands:
 
@@ -66,9 +65,9 @@ Assignment
   # Upload using a multipart form (note that you need to put the absolute path of the image)
   curl -X POST -H "Content-Type: multipart/form-data" -F key1='value1' key2='value2'
   ```
-  Write out the commands you used in the repository `README.md` file.
 
-* Complete steps 1-4 of the following tutorial [Building a Python 3.7 App on App Engine](https://cloud.google.com/appengine/docs/standard/python3/building-app/). Please use the [following repository](https://classroom.github.com/a/oG0yRI1z) for this web app. We will revisit this in a later assignment.
+* Complete steps 1-4 of the following tutorial [Building a Python 3.7 App on App Engine](https://cloud.google.com/appengine/docs/standard/python3/building-app/). 
+    - Please use the [following repository](https://classroom.github.com/a/oG0yRI1z) for this web app. We will revisit this in a later assignment.
 
 * Familiarize yourself with GCP (as needed).
 > These are just some suggestions that will prepare you better for next week.  Watch and/or read whatever you feel you need to.  There are more resources listed above.
