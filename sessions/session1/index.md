@@ -7,7 +7,7 @@ session: true
 
 Session Materials
 ================================================================
-* Session 1 [Slides]({{ site.cdn }}/sessions/session1/mpcs51033-2019-summer-lecture-1.pdf)
+* Session 1 [Slides](mpcs51033-2019-autumn-lecture-1.pdf)
 
 Interesting Links
 ================================================================
