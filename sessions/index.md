@@ -9,7 +9,7 @@ The code below dynamically generates a sidebar nav of pages with
 {% endcomment %}
 
 <ul>
-{% for page in site.pages %}
+{% for page in site.session %}
 {% if page.session == true %}
 
 <entry>
