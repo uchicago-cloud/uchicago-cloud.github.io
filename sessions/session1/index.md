@@ -36,22 +36,23 @@ Resources
   - [Access Control Set](https://cloud.google.com/appengine/docs/standard/python/access-control)
   - [Application Security](https://cloud.google.com/appengine/docs/standard/python/application-security)
 
-<!--
+
 Assignment
 ================================================================================
-* Sign up for GitHub
+* Sign up for GitHub.
 
-* Leave a comment in the [forum](https://github.com/uchicago-cloud/mpcs51033-2019-summer-forum/issues)
+* Post an introduction in the Welcome post in the forum [forum](https://github.com/uchicago-cloud/mpcs51033-2019-autumn/issues)
+* Accept this assingment [repo](https://classroom.github.com/a/tae_dc5f) from GitHub Classroom.
 
 * Sign up for GCP account and add educational credits
-  - I will email link to you
+  - Links will be emailed to you
 
 * Review the documentation for [Python on Google App Engine](https://cloud.google.com/appengine/docs/python/) for the [Standard Environment](https://cloud.google.com/appengine/docs/standard/python/).  
 >There is quite a bit of fragmented information about App Engine in the documentation so there isn't a linear path to reading it.  You should just try to become familiar with some of the capabilities and terminology, we will review it in the first class.
 
 * Complete the following tutorial: [Hello World](https://cloud.google.com/appengine/docs/standard/python/tutorials).   This is a quick start tutorial and there is nothing to turn in.
 
-* Complete the following tutorial: [Guestbook tutorial](https://cloud.google.com/appengine/docs/standard/python/tutorials).  In addition the tutorial as written, please add the additional features:
+* Complete the following tutorial: [Guestbook tutorial](https://cloud.google.com/appengine/docs/standard/python/tutorials).  Please use the following [repository](https://classroom.github.com/a/tae_dc5f). In addition the tutorial as written, please add the additional features:
   - Update the `Greeting` data model by adding a property named `user_agent` that includes the HTTP user agent.  This is useful to determine which browser and device is making a request (ie. detect a mobile device).  The `user_agent` should be a string type.
 
 *  You do not have to built a mobile client to interact with the Guestbook application, however, it is often useful to develop tools that allow you to rapidly test web services and APIs with having to physically switch clients.  Develop command line statements using the UNIX `curl` command to interact with the guestbook.
@@ -66,6 +67,8 @@ Assignment
   curl -X POST -H "Content-Type: multipart/form-data" -F key1='value1' key2='value2'
   ```
   Write out the commands you used in the repository `README.md` file.
+
+* Complete steps 1-4 of the following tutorial [Building a Python 3.7 App on App Engine](https://cloud.google.com/appengine/docs/standard/python3/building-app/). Please use the [following repository](https://classroom.github.com/a/oG0yRI1z) for this web app. We will revisit this in a later assignment.
 
 * Familiarize yourself with GCP (as needed).
 > These are just some suggestions that will prepare you better for next week.  Watch and/or read whatever you feel you need to.  There are more resources listed above.
@@ -83,7 +86,4 @@ Feel free to explore additional enhancements to improve the appearance or functi
 If you have any questions, please ask in #assignment channel on Slack.
 
 ### Due Date ####
-Assignment 1 is due **October 3, 2017 at 5:29pm.** Use the assignment repos in GitHub to submit your assignment.  Please include the URL of the deployed applications in a `README.md` file.
-
-
--->
+Assignment 1 is due **October 8, 2019 at 5:29pm.** Use the assignment repos in GitHub to submit your assignment.  Please include the URL of the deployed applications in a `README.md` file.
