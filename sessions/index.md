@@ -21,7 +21,7 @@ The code below dynamically generates a sidebar nav of pages with
 {% endfor %}
 </ul>
 
-
+<li>Session 1 - [welcome to backends for mobile application](http://uchicago.cloud/sessions/session1/)</li>
 
 {% comment %}
 <h1>Final Project Requirements</h1>
