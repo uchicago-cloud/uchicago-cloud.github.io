@@ -6,7 +6,7 @@ title:  Sessions Notes
 {% comment %}
 The code below dynamically generates a sidebar nav of pages with
 `layout: page` in the front-matter. See readme for usage.
-{% endcomment %}
+
 
 <ul>
 {% for page in site.session %}
@@ -20,8 +20,10 @@ The code below dynamically generates a sidebar nav of pages with
 {% endif %}
 {% endfor %}
 </ul>
+{% endcomment %}
 
 <li>Session 1 - [welcome to backends for mobile application](http://uchicago.cloud/sessions/session1/)</li>
+<li>Session 2 - [google app engine](http://uchicago.cloud/sessions/session2/)</li>
 
 {% comment %}
 <h1>Final Project Requirements</h1>
