@@ -59,6 +59,8 @@ Our data model works fine for a small number of users, but if (when ) our app go
   - `password`
   - `id_token` (a unique urlsafe string that anonymously identifies this user)
 
+  > We will use some of these fields for next week
+
 * When a photo is uploaded it should be added to a collection of the users photos. The photos should still be stored in Google Cloud Storage, but the references to it should be stored with the `User` entitity.
 ![](assets/index-dcf26529.png)
 
