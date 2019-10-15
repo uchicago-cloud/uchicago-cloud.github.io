@@ -17,6 +17,9 @@ Session Materials
 Resources
 ================================================================================
 
+* Scheduling jobs with cron
+    - https://cloud.google.com/appengine/docs/standard/python3/scheduling-jobs-with-cron-yaml
+
 * Sending Mail from App Engine
     - https://cloud.google.com/appengine/docs/standard/python/mail/sending-messages
     - https://cloud.google.com/datastore/docs/
@@ -28,6 +31,9 @@ Resources
 
 * Google APIs
     - [Google Vision API](https://cloud.google.com/vision/)
+
+* Cloud Tasks
+    - https://cloud.google.com/tasks/docs/dual-overviewa
 
 Assignment 3
 ================================================================================
