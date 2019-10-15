@@ -8,8 +8,7 @@ classpath: MPCS51032/2019-Autumn
 
 Session Materials
 ================================================================================
-* [Slides]({{ site.cdn }}/sessions/session2/mpcs51033-2019-autumn-lecture-3.pdf)
-
+* [Slides](mpcs51033-2019-autumn-lecture-3.pdf)
 
 * GitHub Classroom Links:
     - GCP Backend https://classroom.github.com/a/x91wat1G
