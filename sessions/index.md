@@ -8,6 +8,7 @@ The code below dynamically generates a sidebar nav of pages with
 `layout: page` in the front-matter. See readme for usage.
 
 
+
 <ul>
 {% for page in site.session %}
 {% if page.session == true %}
