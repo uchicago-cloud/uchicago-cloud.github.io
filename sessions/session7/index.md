@@ -58,4 +58,4 @@ In addition, you should review all of the resources above (as much as you need t
 
 
 ### Due Date ####
-Assignment 4 is due ** October 30st, 2019 at 5:29pm.** Use the assignment repos in GitHub to submit your assignment.  Please include the URL of the Firebase applications in their respective README.md file.
+Assignment 4 is due **October 30th, 2019 at 5:29pm.** Use the assignment repos in GitHub to submit your assignment.  Please include the URL of the Firebase applications in their respective README.md file.
