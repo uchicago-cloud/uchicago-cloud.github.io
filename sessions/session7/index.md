@@ -46,9 +46,12 @@ Resources
 Assignment
 ============
 
-This week you should become familiar with Firebase by completing the following tutorials:
-* https://codelabs.developers.google.com/codelabs/firestore-ios/index.html?index=..%2F..index#0
+This week you should become familiar with Firebase by completing the following tutorials. One uses the realtime database and one uses firestore.
+* https://codelabs.developers.google.com/codelabs/firestore-ios/index.html
 * https://www.raywenderlich.com/3-firebase-tutorial-getting-started
+
+This tutorial has not been updated for Swift 5 so it will require some updating. You will be building a chat application next week, so this will be fery helpful for thinking about how to set it up.
+* https://codelabs.developers.google.com/codelabs/firebase-ios-swift/
 
 
 In addition, you should review all of the resources above (as much as you need to).  I would recommend watching the latest videos from Google I/O or Firebase Summit on YouTube.
