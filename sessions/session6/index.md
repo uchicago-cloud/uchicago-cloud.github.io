@@ -6,6 +6,11 @@ session: true
 classpath: MPCS51033-2017/2017-Spring
 ---
 
+Session Materials
+=================
+* Session 6 [Slides](mpcs51033-2019-autumn-lecture-6.pdf)
+
+
 Resources
 =========
 
