@@ -9,7 +9,8 @@ classpath: MPCS51033-2017/2017-Spring
 Session Materials
 =================
 
-Session 6 [Slides](mpcs51033-2019-autumn-lecture-6.pdf)
+* Session 6 [Slides](mpcs51033-2019-autumn-lecture-6.pdf)
+* CloudKit demo from class [on GitHub](https://github.com/uchicago-cloud/mpcs50101-2019-autumn-cloud-kit-demo)
 
 
 Resources
