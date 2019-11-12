@@ -16,6 +16,9 @@ Session Materials
 
 Resources
 =========
+* WWDC 2019 Videos
+    - [Making Apps with Core Data](https://developer.apple.com/videos/play/wwdc2019/230)
+    - [Using CoreData with CloudKit](https://developer.apple.com/videos/play/wwdc2019/202/)
 
 
 * [iCloud - Apple Developer Videos](https://developer.apple.com/icloud/)
