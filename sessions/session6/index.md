@@ -11,6 +11,7 @@ Session Materials
 
 * Session 7 [Slides](mpcs51033-2019-autumn-lecture-7.pdf)
 * CloudKit demo from class [on GitHub](https://github.com/uchicago-cloud/mpcs50101-2019-autumn-cloud-kit-demo)
+> This week's changes are in the `week2` branch
 * CloudKit helper from class [on GitHub](https://github.com/uchicago-cloud/mpcs50133-2019-autumn-cloudkit-helper)
 
 
