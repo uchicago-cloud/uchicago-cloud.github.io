@@ -4,10 +4,10 @@
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-    color: #703D6F;/*#2C93D1;#F78181; */
+    color: #771D76; /*#703D6F;#2C93D1;#F78181; */
 }
 
-.lead { color: #E6EBA9; /*#2C93D1; #268bd2;*/
+.lead { color: rgb(25, 152, 202); /*#2C93D1; #268bd2;*/
         text-transform: lowercase;
     }
 
