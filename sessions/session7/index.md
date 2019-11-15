@@ -1,7 +1,7 @@
 ---
 layout:  session
-session_number: 6
-title:   CloudKit
+session_number: 7
+title:   Some Cool and Nefarious Things You Can Do with CloudKit
 session: true
 classpath: MPCS51033-2017/2017-Spring
 ---
@@ -9,8 +9,10 @@ classpath: MPCS51033-2017/2017-Spring
 Session Materials
 =================
 
-* Session 6 [Slides](mpcs51033-2019-autumn-lecture-6.pdf)
+* Session 7 [Slides](mpcs51033-2019-autumn-lecture-7.pdf)
 * CloudKit demo from class [on GitHub](https://github.com/uchicago-cloud/mpcs50101-2019-autumn-cloud-kit-demo)
+> This week's changes are in the `week2` branch
+* CloudKit helper from class [on GitHub](https://github.com/uchicago-cloud/mpcs50133-2019-autumn-cloudkit-helper)
 
 
 Resources
