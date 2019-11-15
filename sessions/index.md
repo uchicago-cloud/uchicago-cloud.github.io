@@ -9,7 +9,8 @@ The code below dynamically generates a sidebar nav of pages with
 {% endcomment %}
 
 <ul>
-{% for page in site.pages | sort:"title" %}
+
+{% for page in site.pages | sort:"session_number" %}
 {% if page.session == true %}
 
 <entry>
@@ -27,3 +28,4 @@ The code below dynamically generates a sidebar nav of pages with
 <h1>Final Project Requirements</h1>
 * Final project [checklist](https://{{ site.cdn }}/MPCS51030/2015-Winter/2015-Winter-FinalProjectRequirements.pdf)
 {% endcomment %}
+
