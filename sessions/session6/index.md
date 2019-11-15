@@ -3,7 +3,6 @@ layout:  session
 session_number: 6
 title:   CloudKit
 session: true
-classpath: MPCS51033-2017/2017-Spring
 ---
 
 Session Materials
