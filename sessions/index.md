@@ -9,8 +9,8 @@ The code below dynamically generates a sidebar nav of pages with
 {% endcomment %}
 
 <ul>
-
-{% for page in site.pages | sort:"session_number" %}
+{% assign pages = site.pages | sort: 'session_number' %}
+{% for page in pages %}
 {% if page.session == true %}
 
 <entry>
