@@ -8,11 +8,11 @@ classpath: MPCS51033-2017/2017-Spring
 
 Session Materials
 ================================================================================
-* Session 9 [Slides]({mpcs51033-2019-autumn-lecture-8.pdf)
+* Session 9 [Slides](mpcs51033-2019-autumn-lecture-8.pdf)
 
 Final Project Requirements
 ==========================
-* [Requirements]({mpcs51033-2019-autumn-final-project-requirements.pdf)
+* [Requirements](mpcs51033-2019-autumn-final-project-requirements.pdf)
 
 
 Resources
