@@ -5,6 +5,8 @@ title:   Welcome to Backends for Mobile Application
 session: true
 ---
 
+<iframe src="https://uchicago.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=5bfc293d-c97a-4e7a-b8af-aba600dff19a&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" width=720 height=405 style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 Session Materials
 ================================================================
 * Session 1 [Slides](mpcs51033-2019-autumn-lecture-1.pdf)
